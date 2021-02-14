@@ -1,2 +1,7 @@
 # Data-Structure-And-Algorithms
-This repository tracks my DSA progress
+
+The purpose of this repository is to track my progress in Data Structures and Algorithms.
+
+Progress till now....
+
+1) Recursion Questions
